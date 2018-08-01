@@ -1,0 +1,6 @@
+helper\LoggerHelper.class
+browsers\FirefoxBrowser.class
+tester\Testing.class
+testbase\TestBase$1.class
+configReader\ConfigFileReader.class
+browsers\ChromeBrowser.class

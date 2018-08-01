@@ -1,0 +1,14 @@
+2018-03-14 14:10:41,625 [main] INFO contexts.TestContext - getting the Page object factory from  the test context
+2018-03-14 14:10:41,641 [main] INFO stepDefinitions.AuthoringStepDefinitions - ^Opne chrome and start app is starting inside AuthoringStepDefinitions $
+2018-03-14 14:10:55,343 [main] INFO contexts.ScenarioContext - setting up the scenario context for the key search
+2018-03-14 14:11:13,475 [main] INFO contexts.TestContext - getting the Page object factory from  the test context
+2018-03-14 14:11:13,475 [main] INFO stepDefinitions.AuthoringStepDefinitions - ^Opne chrome and start app is starting inside AuthoringStepDefinitions $
+2018-03-14 14:11:27,384 [main] INFO contexts.ScenarioContext - setting up the scenario context for the key search
+2018-03-21 13:17:09,545 [main] INFO contexts.TestContext - getting the Page object factory from  the test context
+2018-03-21 13:17:09,577 [main] INFO stepDefinitions.AuthoringStepDefinitions - ^Opne chrome and start app is starting inside AuthoringStepDefinitions $
+2018-03-21 13:19:13,033 [main] INFO contexts.TestContext - getting the Page object factory from  the test context
+2018-03-21 13:19:13,048 [main] INFO stepDefinitions.AuthoringStepDefinitions - ^Opne chrome and start app is starting inside AuthoringStepDefinitions $
+2018-03-21 13:29:43,486 [main] INFO contexts.TestContext - getting the Page object factory from  the test context
+2018-03-21 13:29:43,522 [main] INFO stepDefinitions.AuthoringStepDefinitions - ^Opne chrome and start app is starting inside AuthoringStepDefinitions $
+2018-03-21 13:34:08,154 [main] INFO contexts.TestContext - getting the Page object factory from  the test context
+2018-03-21 13:34:08,218 [main] INFO stepDefinitions.AuthoringStepDefinitions - ^Opne chrome and start app is starting inside AuthoringStepDefinitions $
